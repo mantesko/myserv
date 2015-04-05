@@ -6,3 +6,4 @@
  * Time: 15:05
  */
 echo "Hello world";
+echo phpinfo();
