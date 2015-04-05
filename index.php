@@ -7,3 +7,4 @@
  */
 echo "Hello world";
 echo phpinfo();
+$a = 10;
